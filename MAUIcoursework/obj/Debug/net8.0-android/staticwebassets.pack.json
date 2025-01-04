@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Documents\\Application development\\MAUIcoursework\\MAUIcoursework\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\MAUIcoursework.styles.css",
+      "PackagePath": "staticwebassets\\MAUIcoursework.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Documents\\Application development\\MAUIcoursework\\MAUIcoursework\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Documents\\Application development\\MAUIcoursework\\MAUIcoursework\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Documents\\Application development\\MAUIcoursework\\MAUIcoursework\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Documents\\Application development\\MAUIcoursework\\MAUIcoursework\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\OneDrive\\Documents\\Application development\\MAUIcoursework\\MAUIcoursework\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.MAUIcoursework.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.MAUIcoursework.props",
+      "PackagePath": "build\\MAUIcoursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.MAUIcoursework.props",
+      "PackagePath": "buildMultiTargeting\\MAUIcoursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.MAUIcoursework.props",
+      "PackagePath": "buildTransitive\\MAUIcoursework.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
